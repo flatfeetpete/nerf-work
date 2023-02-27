@@ -14,7 +14,7 @@
         }
     ],
     "camera_type": "fisheye",
-    "render_height": 1440,
+    "render_height": 2880,
     "render_width": 2880,
     "camera_path": [
         {
