@@ -28,7 +28,7 @@
     "camera_type": "perspective",
     "render_height": 1080,
     "render_width": 1920,
-    "default_ipd": 0.01,
+    "default_ipd": 0.007,
     "camera_path": [
         {
             "camera_to_world": [
